@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">HSpot</string>
+    <string name="action_settings">Settings</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="button_send">Send</string>
+
+    <!-- component -->
+    <string name="item_search">Search</string>
+    <string name="item_add_new_site">添加新图源</string>
+    <string name="item_edit_site">编辑图源</string>
+    <string name="title_activity_navigation_view">NavigationViewActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <!-- option -->
+    <string name="search_all_site">搜索全网</string>
+</resources>
